@@ -7,15 +7,15 @@ format_style: talking head + screenshots
 repo_generated: true
 ---
 
-# Netflix VOID - AI Video Editing Learns Cause and Effect
+# Netflix's AI Now Understands Cause and Effect
 
 ## Hook
 
-Here is the real story behind Netflix built this insane AI.
+Netflix just revealed a new AI video tool, but the real story isn't what it does, it's what it understands about the scene.
 
 ## Thesis
 
-AI video editing is learning cause and effect, not just object removal.
+By learning to realistically recreate what's behind an object, this new generation of AI is demonstrating a true understanding of cause and effect, not just simple object removal.
 
 ## Angle
 
