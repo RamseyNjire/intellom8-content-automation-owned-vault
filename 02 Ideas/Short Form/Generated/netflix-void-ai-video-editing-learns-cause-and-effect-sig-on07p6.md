@@ -7,19 +7,29 @@ format_style: talking head + screenshots
 repo_generated: true
 ---
 
-# Netflix's AI Now Understands Cause and Effect
+# Netflix's New AI Understands Cause and Effect
 
 ## Hook
 
-Netflix just revealed a new AI video tool, but the real story isn't what it does, it's what it understands about the scene.
+There's a much bigger story happening with Netflix's new generative AI video editor.
+
+## Story Setup
+
+Netflix just published research on an internal AI tool called VOID, which lets editors remove objects from a scene and have the AI fill in the background.
 
 ## Thesis
 
-By learning to realistically recreate what's behind an object, this new generation of AI is demonstrating a true understanding of cause and effect, not just simple object removal.
+This isn't just about removing objects from a scene; it's about the AI understanding the consequences of that removal.
 
 ## Angle
 
 AI video editing is learning cause and effect, not just object removal.
+
+## Context
+
+- context_requirement: The viewer needs to understand that Netflix has an internal AI tool for removing things from video footage.
+- ai_target_duration: short breakdown
+- ai_duration_reason: A quick take isn't enough to land the setup (what the tool is) and the turn (why it's a bigger deal than just object removal).
 
 ## Recordability
 
