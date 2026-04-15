@@ -34,7 +34,7 @@ This is an architecture signal more than a pricing update.
 ## Recordability
 
 - recordable_now: yes
-- asset_status: not-started
+- asset_status: ready
 - youtube_potential: maybe
 
 ## Notes
