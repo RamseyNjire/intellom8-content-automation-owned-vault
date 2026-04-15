@@ -34,7 +34,7 @@ this was really an `agent runtime leak`, not just leak drama.
 ## Recordability
 
 - recordable_now: yes
-- asset_status: not-started
+- asset_status: ready
 - youtube_potential: maybe
 
 ## Notes
