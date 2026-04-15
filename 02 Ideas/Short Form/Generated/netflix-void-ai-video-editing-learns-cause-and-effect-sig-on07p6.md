@@ -34,7 +34,7 @@ AI video editing is learning cause and effect, not just object removal.
 ## Recordability
 
 - recordable_now: yes
-- asset_status: not-started
+- asset_status: ready
 - youtube_potential: none
 
 ## Notes
